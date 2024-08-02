@@ -1,0 +1,28 @@
+1 Teclas Básicas
+0-9: Números del 0 al 9.
+. : Punto decimal para números decimales.
+C: Borrar la entrada actual (clear).
+
+2. Operaciones Aritméticas
++ : Suma.
+Ejemplo: 2 + 3 = muestra 5.
+- : Resta.
+Ejemplo: 7 - 2 = muestra 5.
+*** :** Multiplicación.
+Ejemplo: 4 * 5 = muestra 20.
+/ : División.
+Ejemplo: 10 / 2 = muestra 5.
+= : Mostrar el resultado de la operación actual.
+
+3. Ejemplos de Uso
+Suma: 2 + 3 = muestra 5.
+Resta: 7 - 2 = muestra 5.
+Multiplicación: 4 * 5 = muestra 20.
+División: 10 / 2 = muestra 5.
+
+4. Resolución de Problemas Comunes
+Resultado Erróneo: Verifica las entradas y la operación seleccionada.
+Pantalla Congelada: Apaga y vuelve a encender la calculadora.
+Memoria Inexacta: N/A (este modelo básico no tiene funciones de memoria).
+Contacto de Soporte 3045 0010
+Si necesitas más ayuda, contacta al soporte técnico de tu calculadora.
